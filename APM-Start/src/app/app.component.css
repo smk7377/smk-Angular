@@ -1,0 +1,63 @@
+.main{
+    text-align: center;
+    margin:0 auto;
+    width:500px;
+    font-family: sans-serif;
+    border: 1px solid #d7d7d7;
+    margin-top:20px;
+    border-bottom: 0px;
+}
+
+h1{
+    text-align: center;
+    padding:30px 0px;
+    color:white;
+    margin-top:0px;
+    background-color: #5c8297
+}
+
+.addItem
+{
+    position: relative;
+    padding-bottom: 0px;
+    height: 30px;
+}
+
+.addText
+{
+    width:80%;
+    height: 30px;
+    padding: 5px;
+    font-size:20px;
+}
+
+.addItem button{
+    height:45px;
+    width:50px;
+    padding: 15px;
+}
+
+
+ul{
+    list-style: none;
+    font-size: 20px;
+    color:#686868;
+    margin-left: -40px;
+    margin-bottom:0px;
+}
+
+li{
+    border-bottom: 1px solid #bfbfbf;
+    background-color: #d7d7d7;
+    padding: 10px 0px;
+    margin-bottom: 5px;
+    margin-top:20px;
+}
+
+
+span{
+    position: relative;
+    cursor: pointer;
+    float: right;
+    margin-right:10px;
+}
